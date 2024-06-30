@@ -2,9 +2,9 @@
 
 Gray Encoder Decoder RTL IP design
 
-RTL design : Verilog HDL;
+RTL design : Verilog HDL
 
-Testbench design: SystemVerilog
+Testbench design : SystemVerilog
 
 
 # RTL Schematic
